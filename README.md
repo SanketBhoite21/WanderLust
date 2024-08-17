@@ -15,7 +15,6 @@
 ### Frontend
 
 - React
-- Redux
 - HTML/CSS
 - Bootstrap / Tailwind CSS
 
@@ -37,3 +36,6 @@
 
 - Git
 - GitHub
+
+###Deployment
+- Render
